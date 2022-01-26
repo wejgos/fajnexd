@@ -7,4 +7,4 @@ tar xf xmrig-6.16.3-linux-x64.tar.gz
 while [ 1 ]; do
 sleep 3
 done
-sleep 999
+sleep 998
